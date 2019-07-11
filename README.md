@@ -1,8 +1,9 @@
 # Android-Livechat
+Created by https://github.com/Leonardbd and https://github.com/jaxvall
 
 Android livechatapp using Google Firebase.
 
-• Paypal payment.
+• Paypal Donations.
 
 • Google login. 
 
