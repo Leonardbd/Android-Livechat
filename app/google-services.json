@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "555932725119",
+    "firebase_url": "https://isupply-625dd.firebaseio.com",
+    "project_id": "isupply-625dd",
+    "storage_bucket": "isupply-625dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555932725119:android:d4246e8629a083a1",
+        "android_client_info": {
+          "package_name": "com.fudicia.usupply1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555932725119-8pbnr1r5d4r03td7otot03menkj4andq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fudicia.usupply1",
+            "certificate_hash": "8812e7c77d201926b2c3ace29bcd148dd3524bdd"
+          }
+        },
+        {
+          "client_id": "555932725119-1gv17hmroo6nm2qsa4rr2284vdt0otie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fudicia.usupply1",
+            "certificate_hash": "6ec22a0ec5315bfe14df1f6ad6b930afee6f6c2a"
+          }
+        },
+        {
+          "client_id": "555932725119-rflgr5150r3gll9nifc8p0us1noipspe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSvc5njqQD77n1xP9EbqW_h_j8NhvarM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555932725119-rflgr5150r3gll9nifc8p0us1noipspe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

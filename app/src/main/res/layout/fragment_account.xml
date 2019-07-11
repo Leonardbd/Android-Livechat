@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_blue">
+
+    <Button
+        android:id="@+id/sign_out_btn"
+        style="@style/FirebaseUI.Button"
+        android:layout_width="101dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/bildbtn"
+        android:text="Logga ut"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <LinearLayout
+        android:layout_width="238dp"
+        android:layout_height="129dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/username_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:text="Ändra användarnamn"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/username_edit_text"
+            style="@android:style/Widget.Holo.Light.EditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:imeOptions="actionDone"
+            android:inputType="textPersonName"
+            android:text="User0"
+            android:textColorHint="#FFFFFF" />
+
+        <Button
+            android:id="@+id/name_change_button"
+            style="@style/FirebaseUI.Button"
+            android:layout_width="101dp"
+            android:layout_height="38dp"
+            android:background="@drawable/bildbtn"
+            android:text="Ändra"
+            android:textColor="@color/white"
+            android:layout_marginRight="65dp"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReactChat</string>
+    <string name="menu1">Hem</string>
+    <string name="menu2">Top</string>
+    <string name="menu3">Konto</string>
+    <string name="menu4">Donera</string>
+    <string name="chatId">chatters</string>
+
+
+</resources>
