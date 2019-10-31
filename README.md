@@ -22,7 +22,8 @@ Android livechatapp using Google Firebase.
 ![startskärm](https://user-images.githubusercontent.com/47029275/61078443-e9cdd400-a420-11e9-8d44-ae6a0f6c515d.png)
 ![chat](https://user-images.githubusercontent.com/47029275/61080101-95c4ee80-a424-11e9-9cc3-71b76301c88d.png)
 ![Screenshot_1562874372](https://user-images.githubusercontent.com/47029275/61080680-e2f59000-a425-11e9-9d8b-f03e17bf15b3.png)
-![Capture](https://user-images.githubusercontent.com/47029275/67960238-3e78a300-fbfa-11e9-853d-1dd00ecc588f.JPG)
+![Capture](https://user-images.githubusercontent.com/47029275/67984598-603c4f00-fc27-11e9-95f0-1d4439ba485d.JPG)
+
 
 
 
